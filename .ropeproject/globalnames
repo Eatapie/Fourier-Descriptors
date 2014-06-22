@@ -1,2 +1,6 @@
-€}qUFourierDescriptor]q(Uanswer_bayersqUtest_setqUtraining_setqUcorrect_answerqUretvalqUbayers_modelqUsample2q	Usample_generaterq
-UresponseqUfindDescriptorqUMIN_DESCRIPTORqUerror_rate_bayersqUsample1qUreconstructqUtruncate_descriptorqUTRAINING_SIZEqUaddNoiseqes.
+€}qUFourierDescriptor]q(Uerror_rate_SVMqUcontour_reconstructqU	k_nearestqU	svm_modelqUfindDescriptorqUerror_rate_KNNqUfourier_resultq	U
+answer_KNNq
+Utest_setqUbayers_modelqUretqUMIN_DESCRIPTORqUerror_rate_bayersqUtruncate_descriptorqUtraining_setqUreconstructqUresponseqU
+answer_SVMqUanswer_bayersqUsample_generaterqU
+svm_paramsqUsample1qUsample2qU
+neignboursqUcorrect_answerqUTRAINING_SIZEqUretvalqUaddNoiseqUdistanceqes.
