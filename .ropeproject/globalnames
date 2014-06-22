@@ -1,3 +1,2 @@
-€}qUFourierDescriptor]q(Utest_setqUtraining_setqUcorrect_answerqUretvalqUsample2qUsample_generaterqUresponseq	UfindDescriptorq
-UMIN_DESCRIPTORqU
-svm_paramsqUsample1qUreconstructqUanswerqUtruncate_descriptorqUmodelqUTRAINING_SIZEqUaddNoiseqes.
+€}qUFourierDescriptor]q(Uanswer_bayersqUtest_setqUtraining_setqUcorrect_answerqUretvalqUbayers_modelqUsample2q	Usample_generaterq
+UresponseqUfindDescriptorqUMIN_DESCRIPTORqUerror_rate_bayersqUsample1qUreconstructqUtruncate_descriptorqUTRAINING_SIZEqUaddNoiseqes.
